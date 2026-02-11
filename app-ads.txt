@@ -1,20 +1,2 @@
-#
-# app-ads.txt para Google AdMob
-# ------------------------------
-# Este archivo NO lo lee la app Flutter. Debe estar hospedado
-# en la raíz del dominio que declares en Google Play Console
-# (por ejemplo: https://tudominio.com/app-ads.txt).
-#
-# PASOS:
-# 1. Sustituye PUB_ID_AQUI por tu ID de editor de AdMob
-#    (formato: pub-XXXXXXXXXXXXXXXX).
-# 2. Sube este archivo tal cual a la raíz de tu dominio.
-# 3. En la consola de Google Play, configura ese dominio
-#    como tu sitio de desarrollador para la app.
-#
-# MÁS INFO:
-# https://support.google.com/admob/answer/9363766
-#
-
 google.com, pub-3777831392790407, DIRECT, f08c47fec0942fa0
 
